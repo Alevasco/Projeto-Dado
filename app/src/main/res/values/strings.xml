@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TesteActivity</string>
+    <string name="dado6">Dado6</string>
+    <string name="dado12">Dado12</string>
+    <string name="dado20">Dado20</string>
+    <string name="escolha_um_dado">Escolha um dado!</string>
+    <string name="rolar_dado_d6">Rolar Dado D6:</string>
+    <string name="d6">D6</string>
+    <string name="d12">D12</string>
+    <string name="d20">D20</string>
+    <string name="rolar_dado_d20">Rolar dado D20:</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="rolar_dado_d12">Rolar dado D12:</string>
+</resources>
